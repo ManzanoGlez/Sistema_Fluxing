@@ -3,7 +3,7 @@
     <script src="{{url('js/jquery-3.2.1.min.js')}}" type="text/javascript"></script>
 
     <div class="container-fluid">
-        <h2>Proyectos!</h2>
+        <h2>Proyectos</h2>
         <br>
         <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="{{url('Img/Add.png')}}"><a class="nav-link-text" href="Registro_Proyecto.php">&nbsp;Registrar Proyecto</a>
